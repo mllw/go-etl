@@ -1,4 +1,4 @@
-module github.com/Breeze0806/go-etl
+module github.com/mllw/go-etl
 
 go 1.16
 
