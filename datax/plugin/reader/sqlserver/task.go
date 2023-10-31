@@ -17,8 +17,8 @@ package sqlserver
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader/dbms"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/plugin/reader/dbms"
 )
 
 // Task 任务

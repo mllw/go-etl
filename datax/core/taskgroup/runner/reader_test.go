@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/plugin"
 )
 
 var errMockTest = errors.New("mock test error")

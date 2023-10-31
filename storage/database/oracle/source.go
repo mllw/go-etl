@@ -15,8 +15,8 @@
 package oracle
 
 import (
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/godror/godror"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func init() {

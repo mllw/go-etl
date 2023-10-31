@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/godror/godror"
+	"github.com/mllw/go-etl/config"
 )
 
 func testJSONFromString(s string) *config.JSON {

@@ -20,7 +20,7 @@ import (
 	"database/sql/driver"
 	"strconv"
 
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/element"
 	"github.com/pingcap/errors"
 )
 

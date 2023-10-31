@@ -14,7 +14,7 @@
 
 package spi
 
-import "github.com/Breeze0806/go-etl/datax/common/spi/writer"
+import "github.com/mllw/go-etl/datax/common/spi/writer"
 
 // Writer 写入器
 type Writer interface {

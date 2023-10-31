@@ -17,8 +17,8 @@ package mysql
 import (
 	"database/sql/driver"
 
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/go-sql-driver/mysql"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func init() {

@@ -17,8 +17,8 @@ package runner
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/spi/writer"
 )
 
 // Writer 写入运行器

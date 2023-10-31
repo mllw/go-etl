@@ -21,10 +21,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/element"
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/lib/pq"
 	"github.com/lib/pq/oid"
+	"github.com/mllw/go-etl/element"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func TestTable_Quoted(t *testing.T) {

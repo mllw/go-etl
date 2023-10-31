@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/element"
 )
 
 // GoType golang的类型

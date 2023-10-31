@@ -17,8 +17,8 @@ package oracle
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/godror/godror"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config 配置

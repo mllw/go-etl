@@ -15,9 +15,9 @@
 package reader
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin/loader"
-	"github.com/Breeze0806/go-etl/datax/common/spi"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin/loader"
+	"github.com/mllw/go-etl/datax/common/spi"
 	"github.com/pingcap/errors"
 )
 

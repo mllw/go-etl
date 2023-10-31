@@ -15,9 +15,9 @@
 package xlsx
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spiwriter "github.com/Breeze0806/go-etl/datax/common/spi/writer"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/file"
+	"github.com/mllw/go-etl/config"
+	spiwriter "github.com/mllw/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/datax/plugin/writer/file"
 )
 
 // Writer 写入器

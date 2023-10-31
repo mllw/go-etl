@@ -20,8 +20,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin"
 )
 
 func TestTask_Init(t *testing.T) {

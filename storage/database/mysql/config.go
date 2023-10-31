@@ -17,8 +17,8 @@ package mysql
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/go-sql-driver/mysql"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config mysql配置，读入的时间都需要解析即parseTime=true

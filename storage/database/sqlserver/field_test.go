@@ -20,9 +20,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/element"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/element"
+	"github.com/mllw/go-etl/storage/database"
 	"github.com/shopspring/decimal"
 )
 

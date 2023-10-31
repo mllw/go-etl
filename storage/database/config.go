@@ -19,8 +19,8 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/Breeze0806/go/time2"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config 数据库连接基础配置，一般用于sql.DB的配置

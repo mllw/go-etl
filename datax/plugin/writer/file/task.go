@@ -19,12 +19,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/common/spi/writer"
-	"github.com/Breeze0806/go-etl/datax/core/transport/exchange"
-	"github.com/Breeze0806/go-etl/element"
-	"github.com/Breeze0806/go-etl/storage/stream/file"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/datax/core/transport/exchange"
+	"github.com/mllw/go-etl/element"
+	"github.com/mllw/go-etl/storage/stream/file"
 )
 
 // Task 任务

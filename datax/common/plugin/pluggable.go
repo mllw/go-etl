@@ -17,7 +17,7 @@ package plugin
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 // Pluggable  可插件化接口

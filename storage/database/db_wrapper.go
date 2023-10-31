@@ -17,8 +17,8 @@ package database
 import (
 	"sync"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/schedule"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/schedule"
 	"github.com/pingcap/errors"
 )
 

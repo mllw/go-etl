@@ -21,7 +21,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config 配置

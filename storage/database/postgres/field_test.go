@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/element"
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/lib/pq/oid"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/element"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func testDecimalColumnValueFromString(s string) element.ColumnValue {

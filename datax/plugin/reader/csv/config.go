@@ -17,9 +17,9 @@ package csv
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 	//csv storage
-	"github.com/Breeze0806/go-etl/storage/stream/file/csv"
+	"github.com/mllw/go-etl/storage/stream/file/csv"
 )
 
 // Config csv读入配置

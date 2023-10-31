@@ -178,17 +178,17 @@ go run tools/license/main.go
 
 [lang-img]:https://img.shields.io/badge/Language-Go-blue.svg
 [lang]:https://golang.org/
-[report-img]:https://goreportcard.com/badge/github.com/Breeze0806/go-etl
-[report]:https://goreportcard.com/report/github.com/Breeze0806/go-etl
-[doc-img]:https://godoc.org/github.com/Breeze0806/go-etl?status.svg
-[doc]:https://godoc.org/github.com/Breeze0806/go-etl
+[report-img]:https://goreportcard.com/badge/github.com/mllw/go-etl
+[report]:https://goreportcard.com/report/github.com/mllw/go-etl
+[doc-img]:https://godoc.org/github.com/mllw/go-etl?status.svg
+[doc]:https://godoc.org/github.com/mllw/go-etl
 [license-img]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-[license]: https://github.com/Breeze0806/go-etl/blob/main/LICENSE
-[ci-img]: https://github.com/Breeze0806/go-etl/actions/workflows/Build.yml/badge.svg
-[ci]: https://github.com/Breeze0806/go-etl/actions/workflows/Build.yml
+[license]: https://github.com/mllw/go-etl/blob/main/LICENSE
+[ci-img]: https://github.com/mllw/go-etl/actions/workflows/Build.yml/badge.svg
+[ci]: https://github.com/mllw/go-etl/actions/workflows/Build.yml
 [release-img]: https://img.shields.io/github/tag/Breeze0806/go-etl.svg?label=release
-[release]: https://github.com/Breeze0806/go-etl/releases
+[release]: https://github.com/mllw/go-etl/releases
 [release-date-img]: https://img.shields.io/github/release-date/Breeze0806/go-etl.svg
-[release-date]: https://github.com/Breeze0806/go-etl/releases
+[release-date]: https://github.com/mllw/go-etl/releases
 [cov-img]: https://codecov.io/gh/Breeze0806/go-etl/branch/main/graph/badge.svg?token=UGb27Nysga
 [cov]: https://codecov.io/gh/Breeze0806/go-etl

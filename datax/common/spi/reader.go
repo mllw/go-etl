@@ -14,7 +14,7 @@
 
 package spi
 
-import "github.com/Breeze0806/go-etl/datax/common/spi/reader"
+import "github.com/mllw/go-etl/datax/common/spi/reader"
 
 // Reader 读取器
 type Reader interface {

@@ -15,9 +15,9 @@
 package plugin
 
 import (
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/core/statistics/container"
 	"github.com/Breeze0806/go/encoding"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/core/statistics/container"
 )
 
 // DefaultJobCollector 默认工作收集器

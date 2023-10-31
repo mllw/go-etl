@@ -15,7 +15,7 @@
 package plugin
 
 import (
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/element"
 )
 
 // RecordReceiver 记录接收器

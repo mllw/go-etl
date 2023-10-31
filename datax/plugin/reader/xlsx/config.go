@@ -17,9 +17,9 @@ package xlsx
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 	//xlsx storage
-	"github.com/Breeze0806/go-etl/storage/stream/file/xlsx"
+	"github.com/mllw/go-etl/storage/stream/file/xlsx"
 )
 
 // Config xlsx输入配置

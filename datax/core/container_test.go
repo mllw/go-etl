@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/core/statistics/container"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/core/statistics/container"
 )
 
 func testJSONFromString(s string) *config.JSON {

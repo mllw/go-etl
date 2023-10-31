@@ -17,9 +17,9 @@ package xlsx
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/file"
-	"github.com/Breeze0806/go-etl/storage/stream/file/xlsx"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/plugin/writer/file"
+	"github.com/mllw/go-etl/storage/stream/file/xlsx"
 )
 
 // SingleConfig xlsx单个输入设置

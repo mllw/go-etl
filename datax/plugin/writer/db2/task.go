@@ -17,12 +17,12 @@ package db2
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/plugin/writer/dbms"
+	"github.com/mllw/go-etl/storage/database"
 
 	//db2 dialect
-	_ "github.com/Breeze0806/go-etl/storage/database/db2"
+	_ "github.com/mllw/go-etl/storage/database/db2"
 )
 
 var execModeMap = map[string]string{

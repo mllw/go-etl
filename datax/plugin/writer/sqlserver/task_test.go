@@ -17,9 +17,9 @@ package sqlserver
 import (
 	"testing"
 
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
-	"github.com/Breeze0806/go-etl/storage/database/sqlserver"
+	"github.com/mllw/go-etl/datax/plugin/writer/dbms"
+	"github.com/mllw/go-etl/storage/database"
+	"github.com/mllw/go-etl/storage/database/sqlserver"
 )
 
 func Test_execMode(t *testing.T) {

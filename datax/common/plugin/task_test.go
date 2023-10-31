@@ -18,7 +18,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/element"
 )
 
 type mockTaskCollector struct {

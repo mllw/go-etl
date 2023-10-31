@@ -17,11 +17,11 @@ package csv
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/file"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/plugin/writer/file"
 
 	//csv storage
-	"github.com/Breeze0806/go-etl/storage/stream/file/csv"
+	"github.com/mllw/go-etl/storage/stream/file/csv"
 )
 
 // SingleConfig csv单个输入设置

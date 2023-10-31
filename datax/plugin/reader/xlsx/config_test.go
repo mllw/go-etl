@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 func TestNewConfig(t *testing.T) {

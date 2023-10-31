@@ -15,10 +15,10 @@
 package sqlserver
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spiwriter "github.com/Breeze0806/go-etl/datax/common/spi/writer"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/config"
+	spiwriter "github.com/mllw/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/datax/plugin/writer/dbms"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 // Writer 写入器

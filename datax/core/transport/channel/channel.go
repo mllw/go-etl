@@ -18,9 +18,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/Breeze0806/go-etl/config"
-	coreconst "github.com/Breeze0806/go-etl/datax/common/config/core"
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/config"
+	coreconst "github.com/mllw/go-etl/datax/common/config/core"
+	"github.com/mllw/go-etl/element"
 	"golang.org/x/time/rate"
 )
 

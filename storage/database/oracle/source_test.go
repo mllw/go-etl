@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/godror/godror"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func TestDialect_Name(t *testing.T) {

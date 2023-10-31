@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/Breeze0806/go/time2"
+	"github.com/mllw/go-etl/config"
 )
 
 func TestConfig_GetMaxOpenConns(t *testing.T) {

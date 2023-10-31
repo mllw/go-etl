@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/plugin"
 )
 
 func TestWriter_Run(t *testing.T) {

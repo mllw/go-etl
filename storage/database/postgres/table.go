@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Breeze0806/go-etl/element"
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/lib/pq"
+	"github.com/mllw/go-etl/element"
+	"github.com/mllw/go-etl/storage/database"
 	"github.com/pingcap/errors"
 )
 

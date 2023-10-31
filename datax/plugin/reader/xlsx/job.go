@@ -18,8 +18,8 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader/file"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/plugin/reader/file"
 	"github.com/pingcap/errors"
 )
 

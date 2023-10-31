@@ -15,8 +15,8 @@
 package core
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/core/statistics/container"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/core/statistics/container"
 )
 
 // Container 容器

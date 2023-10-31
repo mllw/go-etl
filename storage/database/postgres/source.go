@@ -15,8 +15,8 @@
 package postgres
 
 import (
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/lib/pq"
+	"github.com/mllw/go-etl/storage/database"
 
 	//postgres driver 可以指定网络访问的超时时间
 	_ "github.com/Breeze0806/go/database/pqto"

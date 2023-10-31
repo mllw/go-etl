@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config postgres配置

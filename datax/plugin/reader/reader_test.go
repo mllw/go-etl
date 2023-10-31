@@ -19,10 +19,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/common/plugin/loader"
-	"github.com/Breeze0806/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/plugin/loader"
+	"github.com/mllw/go-etl/datax/common/spi/reader"
 )
 
 type mockMaker struct {

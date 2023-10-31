@@ -17,8 +17,8 @@ package runner
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/spi/reader"
 )
 
 // Reader 读取运行器

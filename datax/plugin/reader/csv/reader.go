@@ -15,9 +15,9 @@
 package csv
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spireader "github.com/Breeze0806/go-etl/datax/common/spi/reader"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader/file"
+	"github.com/mllw/go-etl/config"
+	spireader "github.com/mllw/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/datax/plugin/reader/file"
 )
 
 // Reader 读取器

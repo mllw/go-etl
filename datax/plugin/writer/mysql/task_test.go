@@ -17,9 +17,9 @@ package mysql
 import (
 	"testing"
 
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
-	"github.com/Breeze0806/go-etl/storage/database/mysql"
+	"github.com/mllw/go-etl/datax/plugin/writer/dbms"
+	"github.com/mllw/go-etl/storage/database"
+	"github.com/mllw/go-etl/storage/database/mysql"
 )
 
 type mockTable struct {

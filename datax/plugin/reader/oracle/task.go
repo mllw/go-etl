@@ -17,11 +17,11 @@ package oracle
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader/dbms"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/plugin/reader/dbms"
 
 	//oracle storage
-	_ "github.com/Breeze0806/go-etl/storage/database/oracle"
+	_ "github.com/mllw/go-etl/storage/database/oracle"
 )
 
 // Task 任务

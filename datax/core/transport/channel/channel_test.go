@@ -20,8 +20,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/element"
 )
 
 type mockRecord struct {

@@ -17,9 +17,9 @@ package dbms
 import (
 	"database/sql"
 
-	"github.com/Breeze0806/go-etl/config"
-	dbmsreader "github.com/Breeze0806/go-etl/datax/plugin/reader/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/config"
+	dbmsreader "github.com/mllw/go-etl/datax/plugin/reader/dbms"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 // DbHandler 数据库执行句柄封装

@@ -17,7 +17,7 @@ package plugin
 import (
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 func testJSONFromString(s string) *config.JSON {

@@ -18,8 +18,8 @@ import (
 	"database/sql"
 	"database/sql/driver"
 
-	"github.com/Breeze0806/go-etl/storage/database"
 	"github.com/ibmdb/go_ibm_db"
+	"github.com/mllw/go-etl/storage/database"
 	"github.com/pingcap/errors"
 )
 

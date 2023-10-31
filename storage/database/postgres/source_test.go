@@ -18,8 +18,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/storage/database"
 	_ "github.com/Breeze0806/go/database/pqto"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 func TestDialect_Name(t *testing.T) {

@@ -21,11 +21,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
-	coreconst "github.com/Breeze0806/go-etl/datax/common/config/core"
-	"github.com/Breeze0806/go-etl/datax/core"
-	"github.com/Breeze0806/go-etl/datax/core/statistics/container"
-	"github.com/Breeze0806/go-etl/schedule"
+	"github.com/mllw/go-etl/config"
+	coreconst "github.com/mllw/go-etl/datax/common/config/core"
+	"github.com/mllw/go-etl/datax/core"
+	"github.com/mllw/go-etl/datax/core/statistics/container"
+	"github.com/mllw/go-etl/schedule"
 	"github.com/pingcap/errors"
 )
 

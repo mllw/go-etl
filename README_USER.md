@@ -4,7 +4,7 @@ go-etl的datax是一个数据同步工具，目前支持MySQL,postgres,oracle,SQ
 
 ## 1 从哪里下载
 
-可以在[最新发布版本](https://github.com/Breeze0806/go-etl/releases)下载到windows或者linux操作系统的64位版本二进制程序。
+可以在[最新发布版本](https://github.com/mllw/go-etl/releases)下载到windows或者linux操作系统的64位版本二进制程序。
 
 ## 2 如何开始
 

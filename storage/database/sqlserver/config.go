@@ -17,8 +17,8 @@ package sqlserver
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
 	"github.com/denisenkom/go-mssqldb/msdsn"
+	"github.com/mllw/go-etl/config"
 )
 
 // Config mssql配置

@@ -15,13 +15,13 @@
 package sqlserver
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spireader "github.com/Breeze0806/go-etl/datax/common/spi/reader"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader/dbms"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/config"
+	spireader "github.com/mllw/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/datax/plugin/reader/dbms"
+	"github.com/mllw/go-etl/storage/database"
 
 	//sqlserver storage
-	_ "github.com/Breeze0806/go-etl/storage/database/sqlserver"
+	_ "github.com/mllw/go-etl/storage/database/sqlserver"
 )
 
 // Reader 读取器

@@ -17,8 +17,8 @@ package dbms
 import (
 	"encoding/json"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/storage/database"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/storage/database"
 )
 
 // Config 关系型数据读入器配置

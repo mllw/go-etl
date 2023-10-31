@@ -14,7 +14,7 @@
 
 package plugin
 
-import "github.com/Breeze0806/go-etl/element"
+import "github.com/mllw/go-etl/element"
 
 // TaskCollector 任务收集器
 // todo 当前未使用

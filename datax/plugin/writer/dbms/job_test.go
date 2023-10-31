@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin"
 )
 
 func newMockDbHandler(newExecer func(name string, conf *config.JSON) (Execer, error)) DbHandler {

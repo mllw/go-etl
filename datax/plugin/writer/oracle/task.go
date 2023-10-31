@@ -17,11 +17,11 @@ package oracle
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer/dbms"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/plugin/writer/dbms"
 
 	//oracle dialect
-	"github.com/Breeze0806/go-etl/storage/database/oracle"
+	"github.com/mllw/go-etl/storage/database/oracle"
 )
 
 var execModeMap = map[string]string{

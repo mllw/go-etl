@@ -18,7 +18,7 @@ import (
 	"database/sql/driver"
 	"fmt"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 // 默认参数

@@ -17,9 +17,9 @@ package exchange
 import (
 	"errors"
 
-	"github.com/Breeze0806/go-etl/datax/core/transport/channel"
-	"github.com/Breeze0806/go-etl/datax/transform"
-	"github.com/Breeze0806/go-etl/element"
+	"github.com/mllw/go-etl/datax/core/transport/channel"
+	"github.com/mllw/go-etl/datax/transform"
+	"github.com/mllw/go-etl/element"
 )
 
 // 错误枚举

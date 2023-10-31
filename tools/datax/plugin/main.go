@@ -48,8 +48,8 @@ const (
 
 	readerFile = `package %v
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spireader "github.com/Breeze0806/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/config"
+	spireader "github.com/mllw/go-etl/datax/common/spi/reader"
 )
 
 //Reader 读取器
@@ -81,8 +81,8 @@ func (r *Reader) Task() spireader.Task {
 	writerFile = `package %v
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	spiwriter "github.com/Breeze0806/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/config"
+	spiwriter "github.com/mllw/go-etl/datax/common/spi/writer"
 )
 	
 

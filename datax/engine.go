@@ -17,11 +17,11 @@ package datax
 import (
 	"context"
 
-	"github.com/Breeze0806/go-etl/config"
-	coreconst "github.com/Breeze0806/go-etl/datax/common/config/core"
-	"github.com/Breeze0806/go-etl/datax/core"
-	"github.com/Breeze0806/go-etl/datax/core/job"
-	"github.com/Breeze0806/go-etl/datax/core/taskgroup"
+	"github.com/mllw/go-etl/config"
+	coreconst "github.com/mllw/go-etl/datax/common/config/core"
+	"github.com/mllw/go-etl/datax/core"
+	"github.com/mllw/go-etl/datax/core/job"
+	"github.com/mllw/go-etl/datax/core/taskgroup"
 	"github.com/pingcap/errors"
 )
 

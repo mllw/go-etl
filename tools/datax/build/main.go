@@ -35,8 +35,8 @@ const (
 	readerCode = `package %v
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/plugin/reader"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/plugin/reader"
 )
 
 func init() {
@@ -68,8 +68,8 @@ func (m *maker) Default() (reader.Reader, error) {
 	writerCode = `package %v
 
 import (
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/plugin/writer"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/plugin/writer"
 )
 
 func init() {
@@ -220,7 +220,7 @@ type pluginInfo struct {
 }
 
 func (p *pluginInfo) genImport(typ string) string {
-	return fmt.Sprintf(`	_ "github.com/Breeze0806/go-etl/datax/plugin/%s/%s"`, typ, p.shotPackage)
+	return fmt.Sprintf(`	_ "github.com/mllw/go-etl/datax/plugin/%s/%s"`, typ, p.shotPackage)
 }
 
 func (p *pluginInfo) genFile(path string, code string) (err error) {

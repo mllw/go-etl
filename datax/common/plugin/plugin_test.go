@@ -18,7 +18,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 func TestBasePlugin(t *testing.T) {

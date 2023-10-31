@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Breeze0806/go-etl/config"
+	"github.com/mllw/go-etl/config"
 )
 
 func testJSONFromString(json string) *config.JSON {

@@ -19,11 +19,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin"
-	"github.com/Breeze0806/go-etl/datax/common/spi"
-	"github.com/Breeze0806/go-etl/datax/common/spi/reader"
-	"github.com/Breeze0806/go-etl/datax/common/spi/writer"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin"
+	"github.com/mllw/go-etl/datax/common/spi"
+	"github.com/mllw/go-etl/datax/common/spi/reader"
+	"github.com/mllw/go-etl/datax/common/spi/writer"
 )
 
 type mockTaskPlugin struct {

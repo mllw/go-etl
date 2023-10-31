@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Breeze0806/go-etl/config"
-	"github.com/Breeze0806/go-etl/datax/common/plugin/loader"
+	"github.com/mllw/go-etl/config"
+	"github.com/mllw/go-etl/datax/common/plugin/loader"
 )
 
 func testTaskExecer(ctx context.Context, taskConf *config.JSON, jobID, taskGroupID int64, attemptCount int) *taskExecer {
